@@ -17,7 +17,7 @@
 ---
 
 ## 🏰 Table of Contents
--https://princelailan.github.io/royal-meeting-attendant/
+- [https://princelailan.github.io/royal-meeting-attendant/]
 - [Royal Installation](#-royal-installation)
 - [First Court Session](#-first-court-session)
 - [Royal Commands](#-royal-commands)
