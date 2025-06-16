@@ -72,19 +72,6 @@ For petitions and inquiries:
 📜 Proclamations: GitHub Issues
 🛠️ Royal Artisan: Joseph Onyango
 
-<div align="center"> <sub>Created with ❤️ by <b>Joseph Onyango</b>, Royal Software Artisan to His Highness Prince Lailan</sub> <br> <sub>© 2023 Joseph Onyango - All royal rights reserved</sub> </div> ```
-Key improvements made:
-
-Added your profile photo with royal gold border and circular styling
-
-Removed all placeholder content
-
-Maintained all your requested branding elements
-
-Kept the elegant royal theme throughout
-
-Ensured all links and commands are properly formatted
-
-Preserved your copyright notice and attribution
-
-Made the layout mobile-responsive for GitHub viewers
+                                        Created with ❤️ by Joseph Onyango
+Royal Software Artisan to His Highness Prince Lailan © 2025 Joseph Onyango -
+                                                --All royal rights reserved--
