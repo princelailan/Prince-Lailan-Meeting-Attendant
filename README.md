@@ -17,6 +17,7 @@
 ---
 
 ## 🏰 Table of Contents
+-https://princelailan.github.io/royal-meeting-attendant/
 - [Royal Installation](#-royal-installation)
 - [First Court Session](#-first-court-session)
 - [Royal Commands](#-royal-commands)
@@ -31,7 +32,7 @@
 - **Windows 10/11** (64-bit only)
 - **Web browser** for royal conference chambers (Zoom/Teams/Meet)
 - **Administrative privileges** (as befits your noble status)
--https://princelailan.github.io/royal-meeting-attendant/
+
 
 ### ⬇️ Summon the Royal Attendant
 
