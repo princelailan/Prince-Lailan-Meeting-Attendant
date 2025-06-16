@@ -1,0 +1,7 @@
+{
+    "csv_path": "C:/Users/Joseph Onyango/Desktop/Prince_Lailan_Royal_Attendant/dist/royal_schedule.csv",
+    "notifications": true,
+    "reminder_before": 5,
+    "play_sound": true,
+    "theme": "dark"
+}
