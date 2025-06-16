@@ -1,7 +1,7 @@
 # 👑 Prince Lailan's Royal Meeting Attendant
 
 <div align="center">
-  <img src="[https://img.shields.io/badge/By-Joseph_Onyango-purple](https://github.com/princelailan)" alt="Creator">
+  <img src="https://github.com/princelailan" alt="Creator">
   <img src="[https://img.shields.io/badge/Version-1.0.0-gold](https://github.com/princelailan/Prince-Lailan-Meeting-Attendant/tree/42bc055b8f6b8c1a11873d84ce526c4af755b976#readme)" alt="Version">
   <img src="https://img.shields.io/badge/For-Prince_Lailan-blueviolet" alt="For">
   
